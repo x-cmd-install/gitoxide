@@ -1,0 +1,61 @@
+about:
+  description: An idiomatic, lean, fast & safe pure Rust implementation of Git
+  license: Apache-2.0
+  homepage: 
+  head: 2ec4de7
+  archived: false
+  latestVersion: v0.58.0
+  collectedAt: 2026-08-29T07:08:35Z
+timeline:
+  created: 2018-06-07
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-24
+popularity:
+  star: 11888
+  watcher: 56
+  fork: 538
+  release: 2997
+  contributor: 201
+  pullRequest: 237
+  issue: 762
+language:
+  Rust: 12611468
+  Shell: 809185
+  HTML: 96933
+  Just: 15916
+  Makefile: 6956
+  Dockerfile: 108
+totalLine: 13540566
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 89
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-05-31
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-02
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
