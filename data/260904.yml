@@ -7,7 +7,7 @@ about:
   head: 4a870be
   archived: false
   latestVersion: gix-transport-v0.59.2
-  collectedAt: 2026-09-04T19:37:12Z
+  collectedAt: 2026-09-04T20:59:10Z
 timeline:
   created: 2018-06-07
   lastCommit: 2026-09-04
@@ -85,6 +85,64 @@ total:
   openIssue: 2
   commit: 16530
 ---
+path: /home/runner/.x-repo/github.com/Byron/gitoxide
+collectedAt: 2026-09-04T20:59:17Z
+loc:
+  Rust:
+    code: 291188
+    comments: 3131
+    blanks: 27020
+    files: 1539
+  Sh:
+    code: 14965
+    comments: 1219
+    blanks: 2380
+    files: 231
+  Toml:
+    code: 3754
+    comments: 565
+    blanks: 835
+    files: 99
+  Html:
+    code: 324
+    comments: 0
+    blanks: 3
+    files: 1
+  Makefile:
+    code: 110
+    comments: 10
+    blanks: 36
+    files: 1
+  Svg:
+    code: 43
+    comments: 0
+    blanks: 0
+    files: 3
+  PowerShell:
+    code: 8
+    comments: 0
+    blanks: 1
+    files: 1
+  Json:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 91561
+    blanks: 32079
+    files: 177
+  Text:
+    code: 0
+    comments: 720
+    blanks: 174
+    files: 39
+total:
+  code: 310586
+  comments: 119528
+  blanks: 66743
+  files: 2092
 ---
 date: "2026-08-24"
 repo:
