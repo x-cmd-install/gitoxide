@@ -2,13 +2,13 @@ about:
   description: "An idiomatic, lean, fast & safe pure Rust implementation of Git"
   license: Apache-2.0
   homepage: 
-  head: 6b2f33d
+  head: 283937b
   archived: false
   latestVersion: "gix-transport-v0.59.2"
-  collectedAt: 2026-09-07T05:27:20Z
+  collectedAt: 2026-09-07T18:57:20Z
 timeline:
   created: 2018-06-07
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-01
 popularity:
   star: 11926
@@ -16,16 +16,16 @@ popularity:
   fork: 544
   release: 3001
   contributor: 202
-  pullRequest: 1790
+  pullRequest: 1795
   issue: 764
 language:
-  Rust: 12723302
+  Rust: 12766055
   Shell: 811438
   HTML: 96933
   Just: 15916
   Makefile: 6956
   Dockerfile: 108
-totalBytes: 13654653
+totalBytes: 13697406
 recent:
   last30d:
     since: 2026-08-08
@@ -77,19 +77,19 @@ recent:
     commit: 0
 total:
   release: 3001
-  mergedPR: 1554
-  openPR: 7
+  mergedPR: 1558
+  openPR: 8
   closedIssue: 763
   openIssue: 1
-  commit: 16539
+  commit: 16552
 ---
 path: /home/runner/.x-repo/github.com/Byron/gitoxide
-collectedAt: 2026-09-07T05:27:50Z
+collectedAt: 2026-09-07T18:57:36Z
 loc:
   Rust:
-    code: 291306
-    comments: 3134
-    blanks: 27030
+    code: 292253
+    comments: 3136
+    blanks: 27083
     files: 1539
   Sh:
     code: 15022
@@ -137,9 +137,9 @@ loc:
     blanks: 174
     files: 39
 total:
-  code: 310761
-  comments: 119544
-  blanks: 66765
+  code: 311708
+  comments: 119601
+  blanks: 66828
   files: 2092
 ---
 date: "2026-08-24"
@@ -302,7 +302,7 @@ checks:
       - 'Info:   0 out of   3 downloadThenRun dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:27:53+00:00
+  collectedAt: 2026-09-07T18:57:39+00:00
   platform:
     darwin/arm64:
       name:  null
