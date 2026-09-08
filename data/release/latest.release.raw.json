@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12305078,
       "digest": "sha256:0e9aa301dec2651c56684f2398bb0034a3f4b8b6964cfec7b9e8c96fda9f5687",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-08-24T16:22:10Z",
       "updated_at": "2026-08-24T16:22:10Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.58.0/gitoxide-lean-v0.58.0-i686-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13369280,
       "digest": "sha256:3fbed711a2bfaf812afe8e933eab2d09e1c169b5366b69ec6d9f73b7d067adde",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-08-24T16:24:44Z",
       "updated_at": "2026-08-24T16:24:44Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.58.0/gitoxide-lean-v0.58.0-x86_64-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12177554,
       "digest": "sha256:91cc49e95eb2b3363f6cdd692f168a5062a2a63b54304b984d000a39b7026549",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-08-24T16:24:55Z",
       "updated_at": "2026-08-24T16:24:56Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-aarch64-apple-darwin.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 12243883,
       "digest": "sha256:714f8b69ea99de4926ea9fd85b195b694e8642e82ec0c5e40adff36742956ec4",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-08-24T16:26:32Z",
       "updated_at": "2026-08-24T16:26:33Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-i686-pc-windows-msvc.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 13311724,
       "digest": "sha256:f92466339e09627cb19c4bc726a3140a19d1ace67b6c2258de6c7c0a9554b1de",
-      "download_count": 54,
+      "download_count": 56,
       "created_at": "2026-08-24T16:26:47Z",
       "updated_at": "2026-08-24T16:26:48Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-x86_64-pc-windows-msvc.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 13099119,
       "digest": "sha256:b076dd5bf461b25daeacd6d044e5344de09c6b0982ac5b46a5c5695e9771d0e6",
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2026-08-24T16:25:09Z",
       "updated_at": "2026-08-24T16:25:10Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.58.0/gitoxide-max-v0.58.0-i686-pc-windows-msvc.zip"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 14269972,
       "digest": "sha256:c818ebb14f6412ddbbba65ff0aded786c493863dfe3b590149f0ead66b2fc7b1",
-      "download_count": 99,
+      "download_count": 101,
       "created_at": "2026-08-24T16:24:44Z",
       "updated_at": "2026-08-24T16:24:46Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.58.0/gitoxide-max-v0.58.0-x86_64-pc-windows-msvc.zip"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 4550291,
       "digest": "sha256:49fdeb851ac1afb3cab68bcc5f7201ad7131b0197aa3da68e9dd232d38896aee",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-08-24T16:19:28Z",
       "updated_at": "2026-08-24T16:19:29Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.58.0/gitoxide-small-v0.58.0-i686-pc-windows-msvc.zip"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 4843893,
       "digest": "sha256:077f6f53930343cd1854821f067ae480dd942134270c7beb0ab30f1ab90190c4",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-08-24T16:19:27Z",
       "updated_at": "2026-08-24T16:19:27Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.58.0/gitoxide-small-v0.58.0-x86_64-pc-windows-msvc.zip"
