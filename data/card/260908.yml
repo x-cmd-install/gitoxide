@@ -5,7 +5,7 @@ about:
   head: 283937b
   archived: false
   latestVersion: "gix-transport-v0.59.2"
-  collectedAt: 2026-09-08T02:53:19Z
+  collectedAt: 2026-09-08T05:26:15Z
 timeline:
   created: 2018-06-07
   lastCommit: 2026-09-07
@@ -78,13 +78,13 @@ recent:
 total:
   release: 3001
   mergedPR: 1558
-  openPR: 8
+  openPR: 7
   closedIssue: 763
   openIssue: 1
   commit: 16552
 ---
 path: /home/runner/.x-repo/github.com/Byron/gitoxide
-collectedAt: 2026-09-08T02:53:51Z
+collectedAt: 2026-09-08T05:26:30Z
 loc:
   Rust:
     code: 292253
