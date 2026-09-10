@@ -2,15 +2,15 @@ about:
   description: "An idiomatic, lean, fast & safe pure Rust implementation of Git"
   license: Apache-2.0
   homepage: 
-  head: 4ec7c08
+  head: 7665437
   archived: false
   latestVersion: "gix-transport-v0.59.2"
   latestRelease: "gix-transport-v0.59.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:33:38Z
+  collectedAt: 2026-09-10T17:52:02Z
 timeline:
   created: 2018-06-07
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-09-01
   lastRelease: 2026-09-01
   lastPrerelease: 
@@ -19,17 +19,17 @@ popularity:
   watcher: 58
   fork: 548
   release: 3001
-  contributor: 203
-  pullRequest: 1804
+  contributor: 204
+  pullRequest: 1805
   issue: 765
 language:
-  Rust: 12802761
+  Rust: 12811083
   Shell: 813353
   HTML: 96933
   Just: 15916
   Makefile: 6956
   Dockerfile: 108
-totalBytes: 13736027
+totalBytes: 13744349
 recent:
   last30d:
     since: 2026-08-11
@@ -81,19 +81,19 @@ recent:
     commit: 0
 total:
   release: 3001
-  mergedPR: 1566
+  mergedPR: 1567
   openPR: 7
   closedIssue: 764
   openIssue: 1
-  commit: 16575
+  commit: 16580
 ---
 path: /home/runner/.x-repo/github.com/Byron/gitoxide
-collectedAt: 2026-09-10T05:33:58Z
+collectedAt: 2026-09-10T17:52:22Z
 loc:
   Rust:
-    code: 293038
-    comments: 3142
-    blanks: 27129
+    code: 293190
+    comments: 3179
+    blanks: 27141
     files: 1539
   Sh:
     code: 15123
@@ -141,9 +141,9 @@ loc:
     blanks: 174
     files: 39
 total:
-  code: 312596
-  comments: 119709
-  blanks: 66911
+  code: 312748
+  comments: 119756
+  blanks: 66923
   files: 2097
 ---
 date: "2026-09-07"
