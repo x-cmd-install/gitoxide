@@ -7,7 +7,7 @@ about:
   latestVersion: "gix-transport-v0.59.2"
   latestRelease: "gix-transport-v0.59.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:28:46Z
+  collectedAt: 2026-09-11T19:26:18Z
 timeline:
   created: 2018-06-07
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-01
   lastPrerelease: 
 popularity:
-  star: 11933
+  star: 11936
   watcher: 58
   fork: 548
   release: 3001
@@ -88,7 +88,7 @@ total:
   commit: 16580
 ---
 path: /home/runner/.x-repo/github.com/Byron/gitoxide
-collectedAt: 2026-09-11T05:29:06Z
+collectedAt: 2026-09-11T19:26:44Z
 loc:
   Rust:
     code: 293190
