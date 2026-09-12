@@ -14,12 +14,12 @@ x install gitoxide
 
 ## Code insight
 
-Total: **312,559** lines of code across **1876** files in the top 5 languages.
+Total: **312,560** lines of code across **1876** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 293,190 | 3,179 | 27,141 | 1539 |
-| Sh | 15,123 | 1,245 | 2,408 | 236 |
+| Sh | 15,124 | 1,245 | 2,408 | 236 |
 | Toml | 3,754 | 565 | 835 | 99 |
 | Html | 324 | 0 | 3 | 1 |
 | Makefile | 110 | 10 | 36 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `gix-transport-v0.59.2` (2026-09-01)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-12
 - **Assets in release**: 43
 
 ## Popularity
 
-- **Stars**: 11,936 · **Forks**: 548 · **Open issues**: 765 · **Contributors**: 204
+- **Stars**: 11,937 · **Forks**: 548 · **Open issues**: 765 · **Contributors**: 204
 
 ## Totals (cumulative)
 
-- **Releases**: 3001 · **Merged PRs**: 1567 · **Open PRs**: 7 · **Closed issues**: 764 · **Open issues**: 1 · **Commits**: 16580
+- **Releases**: 3001 · **Merged PRs**: 1568 · **Open PRs**: 8 · **Closed issues**: 764 · **Open issues**: 1 · **Commits**: 16583
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 87 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-16 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-21 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-13 | 87 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-14 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-14 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-16 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-17 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-22 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -134,4 +134,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:26:52Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:25:45Z._
