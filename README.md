@@ -14,11 +14,11 @@ x install gitoxide
 
 ## Code insight
 
-Total: **313,430** lines of code across **1875** files in the top 5 languages.
+Total: **313,829** lines of code across **1875** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 294,025 | 3,212 | 27,182 | 1538 |
+| Rust | 294,424 | 3,218 | 27,198 | 1538 |
 | Sh | 15,158 | 1,252 | 2,413 | 236 |
 | Toml | 3,755 | 565 | 835 | 99 |
 | Html | 324 | 0 | 3 | 1 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,948 · **Forks**: 548 · **Open issues**: 767 · **Contributors**: 204
+- **Stars**: 11,954 · **Forks**: 549 · **Open issues**: 767 · **Contributors**: 204
 
 ## Totals (cumulative)
 
-- **Releases**: 3001 · **Merged PRs**: 1573 · **Open PRs**: 10 · **Closed issues**: 765 · **Open issues**: 2 · **Commits**: 16604
+- **Releases**: 3001 · **Merged PRs**: 1574 · **Open PRs**: 10 · **Closed issues**: 766 · **Open issues**: 1 · **Commits**: 16608
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 87 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-20 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-25 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-17 | 87 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-21 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-26 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:03:29Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:56:32Z._
