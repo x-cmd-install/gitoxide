@@ -14,11 +14,11 @@ x install gitoxide
 
 ## Code insight
 
-Total: **315,384** lines of code across **1877** files in the top 5 languages.
+Total: **315,385** lines of code across **1877** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 295,964 | 3,239 | 27,279 | 1540 |
+| Rust | 295,965 | 3,239 | 27,279 | 1540 |
 | Sh | 15,166 | 1,255 | 2,414 | 236 |
 | Toml | 3,762 | 566 | 835 | 99 |
 | Html | 324 | 0 | 3 | 1 |
@@ -26,11 +26,11 @@ Total: **315,384** lines of code across **1877** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.2 / 10**
+Overall score: **7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 2/6 approved changesets -- score normalized to 3
+- **Code-Review** (1/10) — Found 1/6 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `gix-transport-v0.59.2` (2026-09-01)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-20
 - **Assets in release**: 43
 
 ## Popularity
 
-- **Stars**: 11,966 · **Forks**: 548 · **Open issues**: 768 · **Contributors**: 204
+- **Stars**: 11,967 · **Forks**: 548 · **Open issues**: 769 · **Contributors**: 204
 
 ## Totals (cumulative)
 
-- **Releases**: 3001 · **Merged PRs**: 1577 · **Open PRs**: 10 · **Closed issues**: 767 · **Open issues**: 1 · **Commits**: 16627
+- **Releases**: 3001 · **Merged PRs**: 1578 · **Open PRs**: 11 · **Closed issues**: 768 · **Open issues**: 1 · **Commits**: 16629
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 87 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-22 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-24 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-25 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-30 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-22 | 87 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-25 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-01 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:53:19Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:46:49Z._
