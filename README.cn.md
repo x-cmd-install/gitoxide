@@ -4,7 +4,7 @@
 
 An idiomatic, lean, fast & safe pure Rust implementation of Git
 
-[![x-cmd/install — gitoxide Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gitoxide.svg?lang=zh)](https://x-cmd.com/install/gitoxide)
+[![x-cmd/install — gitoxide Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gitoxide.svg?lang=zh)](https://x-cmd.com/install/gitoxide)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install gitoxide
 
 ## 代码洞察
 
-合计: **316,003** 行代码（覆盖前 5 种语言、共 **1878** 个文件）。
+合计: **316,019** 行代码（覆盖前 5 种语言、共 **1878** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Rust | 296,574 | 3,248 | 27,313 | 1541 |
-| Sh | 15,168 | 1,256 | 2,413 | 236 |
+| Sh | 15,184 | 1,259 | 2,413 | 236 |
 | Toml | 3,769 | 566 | 836 | 99 |
 | Html | 324 | 0 | 3 | 1 |
 | Makefile | 110 | 10 | 36 | 1 |
@@ -42,27 +42,27 @@ x install gitoxide
 ## 发布
 
 - **最新版本**: `gix-transport-v0.59.2` (2026-09-01)
-- **最近提交**: 2026-09-22
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 43 个
 
 ## 流行度
 
-- **Star**: 11,968 · **Fork**: 549 · **开放 issue**: 769 · **贡献者**: 205
+- **Star**: 11,968 · **Fork**: 550 · **开放 issue**: 769 · **贡献者**: 205
 
 ## 累计统计
 
-- **发布数**: 3001 · **已合并 PR**: 1582 · **开放 PR**: 9 · **已关闭 issue**: 768 · **开放 issue**: 1 · **提交数**: 16640
+- **发布数**: 3001 · **已合并 PR**: 1584 · **开放 PR**: 9 · **已关闭 issue**: 768 · **开放 issue**: 1 · **提交数**: 16644
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 33 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 93 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 26 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 93 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -121,4 +121,4 @@ gitoxide 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:46:09Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:59:24Z._
