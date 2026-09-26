@@ -41,76 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `gix-transport-v0.59.2` (2026-09-01)
+- **Latest**: `gix-testtools-v0.21.0` (2026-09-25)
 - **Last commit**: 2026-09-25
-- **Assets in release**: 43
 
 ## Popularity
 
-- **Stars**: 11,976 · **Forks**: 551 · **Open issues**: 770 · **Contributors**: 206
+- **Stars**: 11,981 · **Forks**: 551 · **Open issues**: 770 · **Contributors**: 206
 
 ## Totals (cumulative)
 
-- **Releases**: 3001 · **Merged PRs**: 1588 · **Open PRs**: 11 · **Closed issues**: 768 · **Open issues**: 2 · **Commits**: 16703
+- **Releases**: 3066 · **Merged PRs**: 1590 · **Open PRs**: 11 · **Closed issues**: 768 · **Open issues**: 2 · **Commits**: 16711
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 93 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-27 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-29 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-30 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-05 | 100 | 0 | 0 | 0 | 0 | 0 |
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [config.ghostty](https://github.com/Byron/gitoxide/releases/download/v0.58.0/config.ghostty) | 3.1 KiB | `other` |
-| [Ghostty.Local.app.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/Ghostty.Local.app.zip) | 25.8 MiB | `other` |
-| [gitoxide-lean-v0.58.0-aarch64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-lean-v0.58.0-aarch64-apple-darwin.tar.gz) | 11.2 MiB | `native/darwin/arm64` |
-| [gitoxide-lean-v0.58.0-aarch64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-lean-v0.58.0-aarch64-pc-windows-msvc.zip) | 12.0 MiB | `native/win/arm64` |
-| [gitoxide-lean-v0.58.0-i686-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-lean-v0.58.0-i686-pc-windows-msvc.zip) | 11.7 MiB | `native/win/x64` |
-| [gitoxide-lean-v0.58.0-universal-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-lean-v0.58.0-universal-apple-darwin.tar.gz) | 23.0 MiB | `native/darwin/x64` |
-| [gitoxide-lean-v0.58.0-x86_64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-lean-v0.58.0-x86_64-apple-darwin.tar.gz) | 11.9 MiB | `native/darwin/x64` |
-| [gitoxide-lean-v0.58.0-x86_64-pc-windows-gnu.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-lean-v0.58.0-x86_64-pc-windows-gnu.zip) | 12.6 MiB | `native/win/x64` |
-| [gitoxide-lean-v0.58.0-x86_64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-lean-v0.58.0-x86_64-pc-windows-msvc.zip) | 12.7 MiB | `native/win/x64` |
-| [gitoxide-max-pure-v0.58.0-aarch64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-aarch64-apple-darwin.tar.gz) | 11.6 MiB | `native/darwin/arm64` |
-| [gitoxide-max-pure-v0.58.0-aarch64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-aarch64-pc-windows-msvc.zip) | 12.2 MiB | `native/win/arm64` |
-| [gitoxide-max-pure-v0.58.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-aarch64-unknown-linux-gnu.tar.gz) | 12.0 MiB | `native/linux/arm64/glibc` |
-| [gitoxide-max-pure-v0.58.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-aarch64-unknown-linux-musl.tar.gz) | 12.1 MiB | `native/linux/arm64/musl` |
-| [gitoxide-max-pure-v0.58.0-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-arm-unknown-linux-gnueabihf.tar.gz) | 12.2 MiB | `native/linux/arm/glibc` |
-| [gitoxide-max-pure-v0.58.0-arm-unknown-linux-musleabihf.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-arm-unknown-linux-musleabihf.tar.gz) | 12.3 MiB | `native/linux/arm/musl` |
-| [gitoxide-max-pure-v0.58.0-i686-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-i686-pc-windows-msvc.zip) | 11.7 MiB | `native/win/x64` |
-| [gitoxide-max-pure-v0.58.0-i686-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-i686-unknown-linux-gnu.tar.gz) | 13.0 MiB | `native/linux/x86/glibc` |
-| [gitoxide-max-pure-v0.58.0-i686-unknown-linux-musl.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-i686-unknown-linux-musl.tar.gz) | 12.5 MiB | `native/linux/x86/musl` |
-| [gitoxide-max-pure-v0.58.0-powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-powerpc64le-unknown-linux-gnu.tar.gz) | 13.4 MiB | `native/unknown` |
-| [gitoxide-max-pure-v0.58.0-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-riscv64gc-unknown-linux-gnu.tar.gz) | 13.0 MiB | `native/linux/riscv64/glibc` |
-| [gitoxide-max-pure-v0.58.0-s390x-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-s390x-unknown-linux-gnu.tar.gz) | 14.0 MiB | `native/unknown` |
-| [gitoxide-max-pure-v0.58.0-universal-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-universal-apple-darwin.tar.gz) | 23.9 MiB | `native/darwin/x64` |
-| [gitoxide-max-pure-v0.58.0-x86_64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-x86_64-apple-darwin.tar.gz) | 12.4 MiB | `native/darwin/x64` |
-| [gitoxide-max-pure-v0.58.0-x86_64-pc-windows-gnu.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-x86_64-pc-windows-gnu.zip) | 12.3 MiB | `native/win/x64` |
-| [gitoxide-max-pure-v0.58.0-x86_64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-x86_64-pc-windows-msvc.zip) | 12.7 MiB | `native/win/x64` |
-| [gitoxide-max-pure-v0.58.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-x86_64-unknown-linux-gnu.tar.gz) | 12.8 MiB | `native/linux/x64/glibc` |
-| [gitoxide-max-pure-v0.58.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-pure-v0.58.0-x86_64-unknown-linux-musl.tar.gz) | 12.9 MiB | `native/linux/x64/musl` |
-| [gitoxide-max-v0.58.0-aarch64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-v0.58.0-aarch64-apple-darwin.tar.gz) | 11.9 MiB | `native/darwin/arm64` |
-| [gitoxide-max-v0.58.0-aarch64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-v0.58.0-aarch64-pc-windows-msvc.zip) | 12.8 MiB | `native/win/arm64` |
-| [gitoxide-max-v0.58.0-i686-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-v0.58.0-i686-pc-windows-msvc.zip) | 12.5 MiB | `native/win/x64` |
-| [gitoxide-max-v0.58.0-universal-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-v0.58.0-universal-apple-darwin.tar.gz) | 24.5 MiB | `native/darwin/x64` |
-| [gitoxide-max-v0.58.0-x86_64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-v0.58.0-x86_64-apple-darwin.tar.gz) | 12.6 MiB | `native/darwin/x64` |
-| [gitoxide-max-v0.58.0-x86_64-pc-windows-gnu.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-v0.58.0-x86_64-pc-windows-gnu.zip) | 13.4 MiB | `native/win/x64` |
-| [gitoxide-max-v0.58.0-x86_64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-max-v0.58.0-x86_64-pc-windows-msvc.zip) | 13.6 MiB | `native/win/x64` |
-| [gitoxide-small-v0.58.0-aarch64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-small-v0.58.0-aarch64-apple-darwin.tar.gz) | 4.3 MiB | `native/darwin/arm64` |
-| [gitoxide-small-v0.58.0-aarch64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-small-v0.58.0-aarch64-pc-windows-msvc.zip) | 4.4 MiB | `native/win/arm64` |
-| [gitoxide-small-v0.58.0-i686-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-small-v0.58.0-i686-pc-windows-msvc.zip) | 4.3 MiB | `native/win/x64` |
-| [gitoxide-small-v0.58.0-universal-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-small-v0.58.0-universal-apple-darwin.tar.gz) | 8.7 MiB | `native/darwin/x64` |
-| [gitoxide-small-v0.58.0-x86_64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-small-v0.58.0-x86_64-apple-darwin.tar.gz) | 4.5 MiB | `native/darwin/x64` |
-| [gitoxide-small-v0.58.0-x86_64-pc-windows-gnu.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-small-v0.58.0-x86_64-pc-windows-gnu.zip) | 4.5 MiB | `native/win/x64` |
-| [gitoxide-small-v0.58.0-x86_64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/gitoxide-small-v0.58.0-x86_64-pc-windows-msvc.zip) | 4.6 MiB | `native/win/x64` |
-| [hashes.sha256](https://github.com/Byron/gitoxide/releases/download/v0.58.0/hashes.sha256) | 4.5 KiB | `other` |
-| [tix.zip](https://github.com/Byron/gitoxide/releases/download/v0.58.0/tix.zip) | 6.6 MiB | `other` |
+| 30d | 2026-08-27 | 69 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-30 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-01 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-06 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -121,4 +72,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:46:42Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:39:16Z._
