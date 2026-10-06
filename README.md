@@ -14,13 +14,13 @@ x install gitoxide
 
 ## Code insight
 
-Total: **372,441** lines of code across **1933** files in the top 5 languages.
+Total: **372,630** lines of code across **1935** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 352,241 | 3,480 | 29,660 | 1587 |
-| Sh | 15,600 | 1,326 | 2,465 | 244 |
-| Toml | 3,829 | 577 | 848 | 99 |
+| Rust | 352,394 | 3,480 | 29,667 | 1587 |
+| Sh | 15,635 | 1,334 | 2,471 | 246 |
+| Toml | 3,830 | 579 | 848 | 99 |
 | Html | 324 | 0 | 3 | 1 |
 | Json | 240 | 0 | 0 | 2 |
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,996 · **Forks**: 556 · **Open issues**: 773 · **Contributors**: 207
+- **Stars**: 11,997 · **Forks**: 556 · **Open issues**: 773 · **Contributors**: 207
 
 ## Totals (cumulative)
 
-- **Releases**: 3066 · **Merged PRs**: 1604 · **Open PRs**: 18 · **Closed issues**: 769 · **Open issues**: 4 · **Commits**: 16909
+- **Releases**: 3066 · **Merged PRs**: 1606 · **Open PRs**: 16 · **Closed issues**: 771 · **Open issues**: 2 · **Commits**: 16914
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 65 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-10 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-15 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-06 | 65 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-16 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:27:52Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:02:08Z._
