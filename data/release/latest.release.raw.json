@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/GitoxideLabs/gitoxide/releases/409528643",
-  "assets_url": "https://api.github.com/repos/GitoxideLabs/gitoxide/releases/409528643/assets",
-  "upload_url": "https://uploads.github.com/repos/GitoxideLabs/gitoxide/releases/409528643/assets{?name,label}",
-  "html_url": "https://github.com/GitoxideLabs/gitoxide/releases/tag/gix-utils-v0.5.1",
-  "id": 409528643,
+  "url": "https://api.github.com/repos/GitoxideLabs/gitoxide/releases/420796422",
+  "assets_url": "https://api.github.com/repos/GitoxideLabs/gitoxide/releases/420796422/assets",
+  "upload_url": "https://uploads.github.com/repos/GitoxideLabs/gitoxide/releases/420796422/assets{?name,label}",
+  "html_url": "https://github.com/GitoxideLabs/gitoxide/releases/tag/v0.61.0",
+  "id": 420796422,
   "author": {
     "login": "Byron",
     "id": 63622,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOCCL8X84YaOlD",
-  "tag_name": "gix-utils-v0.5.1",
+  "node_id": "RE_kwDOCCL8X84ZFNgG",
+  "tag_name": "v0.61.0",
   "target_commitish": "main",
-  "name": "gix-utils v0.5.1",
+  "name": "v0.61.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-11T08:14:28Z",
-  "updated_at": "2026-10-11T08:14:32Z",
-  "published_at": "2026-10-11T08:14:32Z",
+  "created_at": "2026-10-22T13:59:54Z",
+  "updated_at": "2026-10-22T14:01:27Z",
+  "published_at": "2026-10-22T14:01:27Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/GitoxideLabs/gitoxide/tarball/gix-utils-v0.5.1",
-  "zipball_url": "https://api.github.com/repos/GitoxideLabs/gitoxide/zipball/gix-utils-v0.5.1",
-  "body": "### Bug Fixes\n\n - Document the `gix-utils/prodash` workaround and guard auditable builds\n   <!-- agent -->\n   `cargo-auditable` reconstructs enabled features from Cargo’s `rustc` arguments\n   and replays them into workspace-wide `cargo metadata`. The root package’s\n   implicit `prodash` feature also matches `gix-utils`’ optional dependency,\n   despite `dep:prodash` suppressing its implicit feature. Cargo then rejects the\n   request for the nonexistent `gix-utils/prodash` feature.\n   \n   Explain why the explicit alias is a tooling compatibility workaround, link\n   the upstream Cargo and `cargo-auditable` issues, and document a metadata\n   reproduction and how to reassess removal.\n   \n   Add `just check-auditable` and a blocking CI job using stable Rust and\n   `cargo-auditable` 0.7.6. Test an actual auditable build of the `small`\n   configuration rather than requiring the alias itself, so an upstream fix can\n   allow the workaround to be removed without rewriting the check.\n\n### Commit Statistics\n\n - 4 commits contributed to the release over the course of 2 calendar days.\n - 3 days passed between releases.\n - 1 commit was understood as [conventional](https://www.conventionalcommits.org).\n - 0 issues like '(#ID)' were seen in commit messages\n\n### Commit Details\n\n<csr-read-only-do-not-edit/>\n\n<details><summary>view details</summary>\n\n * **Uncategorized**\n    - Merge pull request #3050 from plusky/fix-gix-utils-prodash-feature (e7ddf81)\n    - Document the `gix-utils/prodash` workaround and guard auditable builds (6a262bc)\n    - Restore explicit prodash feature in gix-utils dropped in dep: migration (3c367a6)\n    - Merge pull request #3048 from GitoxideLabs/new-release (5fccccf)\n</details>\n\n",
-  "reactions": {
-    "url": "https://api.github.com/repos/GitoxideLabs/gitoxide/releases/409528643/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/GitoxideLabs/gitoxide/tarball/v0.61.0",
+  "zipball_url": "https://api.github.com/repos/GitoxideLabs/gitoxide/zipball/v0.61.0",
+  "body": "Headline benefits of this extra-curricular release are various security improvements,\nand greatly improved error handling and consisstency. Plumbing crates for instance will now\nuse a standard `std::error::Error` compatible error type.\n\nBesides that, the tracing of all commands was greatly improved.\n\n### Commit Statistics\n\n - 3 commits contributed to the release over the course of 4 calendar days.\n - 14 days passed between releases.\n - 0 commits were understood as [conventional](https://www.conventionalcommits.org).\n - 0 issues like '(#ID)' were seen in commit messages\n\n### Commit Details\n\n<csr-read-only-do-not-edit/>\n\n<details><summary>view details</summary>\n\n * **Uncategorized**\n    - Merge pull request #3064 from GitoxideLabs/various-improvements (8c513c5)\n    - Merge pull request #3066 from GitoxideLabs/check-commit-graph (7540f69)\n    - Merge pull request #3037 from ameyypawar/gix-remote-default-branch (ad0202e)\n</details>\n\n"
 }
