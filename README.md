@@ -14,11 +14,11 @@ x install gitoxide
 
 ## Code insight
 
-Total: **386,790** lines of code across **1990** files in the top 5 languages.
+Total: **386,794** lines of code across **1990** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 364,994 | 3,553 | 30,265 | 1612 |
+| Rust | 364,998 | 3,554 | 30,265 | 1612 |
 | Sh | 17,171 | 1,571 | 2,621 | 276 |
 | Toml | 3,854 | 582 | 846 | 99 |
 | Html | 324 | 0 | 3 | 1 |
@@ -43,29 +43,75 @@ Lowest-scoring checks:
 
 - **Latest**: `v0.61.0` (2026-10-22)
 - **Last commit**: 2026-10-23
+- **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 12,045 · **Forks**: 570 · **Open issues**: 802 · **Contributors**: 212
+- **Stars**: 12,054 · **Forks**: 571 · **Open issues**: 802 · **Contributors**: 212
 
 ## Totals (cumulative)
 
-- **Releases**: 3189 · **Merged PRs**: 1643 · **Open PRs**: 18 · **Closed issues**: 773 · **Open issues**: 29 · **Commits**: 17071
+- **Releases**: 3189 · **Merged PRs**: 1644 · **Open PRs**: 17 · **Closed issues**: 773 · **Open issues**: 29 · **Commits**: 17073
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-24 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-29 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-03 | 100 | 0 | 0 | 0 | 0 | 0 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gitoxide-lean-v0.61.0-aarch64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-lean-v0.61.0-aarch64-apple-darwin.tar.gz) | 11.7 MiB | `native/darwin/arm64` |
+| [gitoxide-lean-v0.61.0-aarch64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-lean-v0.61.0-aarch64-pc-windows-msvc.zip) | 12.6 MiB | `native/win/arm64` |
+| [gitoxide-lean-v0.61.0-i686-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-lean-v0.61.0-i686-pc-windows-msvc.zip) | 12.3 MiB | `native/win/x64` |
+| [gitoxide-lean-v0.61.0-universal-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-lean-v0.61.0-universal-apple-darwin.tar.gz) | 24.2 MiB | `native/darwin/x64` |
+| [gitoxide-lean-v0.61.0-x86_64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-lean-v0.61.0-x86_64-apple-darwin.tar.gz) | 12.5 MiB | `native/darwin/x64` |
+| [gitoxide-lean-v0.61.0-x86_64-pc-windows-gnu.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-lean-v0.61.0-x86_64-pc-windows-gnu.zip) | 13.3 MiB | `native/win/x64` |
+| [gitoxide-lean-v0.61.0-x86_64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-lean-v0.61.0-x86_64-pc-windows-msvc.zip) | 13.5 MiB | `native/win/x64` |
+| [gitoxide-max-pure-v0.61.0-aarch64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-aarch64-apple-darwin.tar.gz) | 11.8 MiB | `native/darwin/arm64` |
+| [gitoxide-max-pure-v0.61.0-aarch64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-aarch64-pc-windows-msvc.zip) | 12.4 MiB | `native/win/arm64` |
+| [gitoxide-max-pure-v0.61.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-aarch64-unknown-linux-gnu.tar.gz) | 12.1 MiB | `native/linux/arm64/glibc` |
+| [gitoxide-max-pure-v0.61.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-aarch64-unknown-linux-musl.tar.gz) | 12.2 MiB | `native/linux/arm64/musl` |
+| [gitoxide-max-pure-v0.61.0-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-arm-unknown-linux-gnueabihf.tar.gz) | 12.3 MiB | `native/linux/arm/glibc` |
+| [gitoxide-max-pure-v0.61.0-arm-unknown-linux-musleabihf.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-arm-unknown-linux-musleabihf.tar.gz) | 12.4 MiB | `native/linux/arm/musl` |
+| [gitoxide-max-pure-v0.61.0-i686-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-i686-pc-windows-msvc.zip) | 11.9 MiB | `native/win/x64` |
+| [gitoxide-max-pure-v0.61.0-i686-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-i686-unknown-linux-gnu.tar.gz) | 13.1 MiB | `native/linux/x86/glibc` |
+| [gitoxide-max-pure-v0.61.0-i686-unknown-linux-musl.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-i686-unknown-linux-musl.tar.gz) | 12.8 MiB | `native/linux/x86/musl` |
+| [gitoxide-max-pure-v0.61.0-powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-powerpc64le-unknown-linux-gnu.tar.gz) | 13.6 MiB | `native/unknown` |
+| [gitoxide-max-pure-v0.61.0-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-riscv64gc-unknown-linux-gnu.tar.gz) | 12.8 MiB | `native/linux/riscv64/glibc` |
+| [gitoxide-max-pure-v0.61.0-s390x-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-s390x-unknown-linux-gnu.tar.gz) | 14.3 MiB | `native/unknown` |
+| [gitoxide-max-pure-v0.61.0-universal-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-universal-apple-darwin.tar.gz) | 24.4 MiB | `native/darwin/x64` |
+| [gitoxide-max-pure-v0.61.0-x86_64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-x86_64-apple-darwin.tar.gz) | 12.7 MiB | `native/darwin/x64` |
+| [gitoxide-max-pure-v0.61.0-x86_64-pc-windows-gnu.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-x86_64-pc-windows-gnu.zip) | 12.6 MiB | `native/win/x64` |
+| [gitoxide-max-pure-v0.61.0-x86_64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-x86_64-pc-windows-msvc.zip) | 13.0 MiB | `native/win/x64` |
+| [gitoxide-max-pure-v0.61.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-x86_64-unknown-linux-gnu.tar.gz) | 13.1 MiB | `native/linux/x64/glibc` |
+| [gitoxide-max-pure-v0.61.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-x86_64-unknown-linux-musl.tar.gz) | 13.2 MiB | `native/linux/x64/musl` |
+| [gitoxide-max-v0.61.0-aarch64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-v0.61.0-aarch64-apple-darwin.tar.gz) | 12.0 MiB | `native/darwin/arm64` |
+| [gitoxide-max-v0.61.0-aarch64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-v0.61.0-aarch64-pc-windows-msvc.zip) | 12.9 MiB | `native/win/arm64` |
+| [gitoxide-max-v0.61.0-i686-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-v0.61.0-i686-pc-windows-msvc.zip) | 12.6 MiB | `native/win/x64` |
+| [gitoxide-max-v0.61.0-universal-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-v0.61.0-universal-apple-darwin.tar.gz) | 24.9 MiB | `native/darwin/x64` |
+| [gitoxide-max-v0.61.0-x86_64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-v0.61.0-x86_64-apple-darwin.tar.gz) | 12.9 MiB | `native/darwin/x64` |
+| [gitoxide-max-v0.61.0-x86_64-pc-windows-gnu.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-v0.61.0-x86_64-pc-windows-gnu.zip) | 13.6 MiB | `native/win/x64` |
+| [gitoxide-max-v0.61.0-x86_64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-max-v0.61.0-x86_64-pc-windows-msvc.zip) | 13.8 MiB | `native/win/x64` |
+| [gitoxide-small-v0.61.0-aarch64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-small-v0.61.0-aarch64-apple-darwin.tar.gz) | 4.2 MiB | `native/darwin/arm64` |
+| [gitoxide-small-v0.61.0-aarch64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-small-v0.61.0-aarch64-pc-windows-msvc.zip) | 4.4 MiB | `native/win/arm64` |
+| [gitoxide-small-v0.61.0-i686-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-small-v0.61.0-i686-pc-windows-msvc.zip) | 4.3 MiB | `native/win/x64` |
+| [gitoxide-small-v0.61.0-universal-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-small-v0.61.0-universal-apple-darwin.tar.gz) | 8.6 MiB | `native/darwin/x64` |
+| [gitoxide-small-v0.61.0-x86_64-apple-darwin.tar.gz](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-small-v0.61.0-x86_64-apple-darwin.tar.gz) | 4.5 MiB | `native/darwin/x64` |
+| [gitoxide-small-v0.61.0-x86_64-pc-windows-gnu.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-small-v0.61.0-x86_64-pc-windows-gnu.zip) | 4.5 MiB | `native/win/x64` |
+| [gitoxide-small-v0.61.0-x86_64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.61.0/gitoxide-small-v0.61.0-x86_64-pc-windows-msvc.zip) | 4.6 MiB | `native/win/x64` |
+| [hashes.sha256](https://github.com/Byron/gitoxide/releases/download/v0.61.0/hashes.sha256) | 4.5 KiB | `other` |
 
 ## Distribution status
 
-Reported by **58** distros on [repology.org](https://repology.org/project/gitoxide). **2** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
+Reported by **59** distros on [repology.org](https://repology.org/project/gitoxide). **7** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -85,4 +131,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:36:14Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:12:25Z._
