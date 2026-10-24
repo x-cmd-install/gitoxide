@@ -1,48 +1,3 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: gitoxide
-  binname: gitoxide
-  visiblename: gitoxide
-  version: 0.56.0
-  origversion: 0.56.0-1
-  status: outdated
-  summary: An idiomatic, lean, fast & safe pure Rust implementation of Git
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: gitoxide
-  binname: gitoxide
-  visiblename: gitoxide
-  version: 0.56.0
-  origversion: 0.56.0-1
-  status: outdated
-  summary: An idiomatic, lean, fast & safe pure Rust implementation of Git
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: wakemeops
-  subrepo: dev
-  binname: gitoxide
-  visiblename: gitoxide
-  version: 0.48.0
-  origversion: 0.48.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: gitoxide
-  binname: gitoxide
-  visiblename: gitoxide
-  version: 0.56.0
-  origversion: 0.56.0-1
-  status: outdated
-  summary: An idiomatic, lean, fast & safe pure Rust implementation of Git
-  licenses:
-    - MIT
-    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: gitoxide
@@ -127,6 +82,18 @@
   summary: Rust implementation of Git (documentation)
   licenses:
     - Apache-2.0 OR MIT
+- repo: nix_stable_25_05
+  srcname: gitoxide
+  visiblename: gitoxide
+  version: 0.42.0
+  origversion: null
+  status: outdated
+  summary: Command-line application for interacting with git repositories
+  maintainers:
+    - sybrand@neuralcoding.com
+  licenses:
+    - MIT
+    - Apache-2.0
 - repo: exherbo
   subrepo: rust
   srcname: dev-scm/gitoxide
@@ -173,13 +140,22 @@
   origversion: null
   status: rolling
   summary: Idiomatic, lean, fast & safe pure Rust implementation of Git
+- repo: wakemeops
+  subrepo: dev
+  binname: gitoxide
+  visiblename: gitoxide
+  version: 0.54.0
+  origversion: 0.54.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: macports
   srcname: devel/gitoxide
   binname: gitoxide
   visiblename: gitoxide
-  version: 0.60.0
+  version: 0.61.0
   origversion: null
-  status: outdated
+  status: newest
   summary: An idiomatic, lean, fast & safe pure Rust implementation of Git
   maintainers:
     - herbygillot@github
@@ -188,6 +164,42 @@
     - MIT
   categories:
     - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: gitoxide
+  binname: gitoxide
+  visiblename: gitoxide
+  version: 0.56.0
+  origversion: 0.56.0-1
+  status: outdated
+  summary: An idiomatic, lean, fast & safe pure Rust implementation of Git
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: gitoxide
+  binname: gitoxide
+  visiblename: gitoxide
+  version: 0.56.0
+  origversion: 0.56.0-1
+  status: outdated
+  summary: An idiomatic, lean, fast & safe pure Rust implementation of Git
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: gitoxide
+  binname: gitoxide
+  visiblename: gitoxide
+  version: 0.56.0
+  origversion: 0.56.0-1
+  status: outdated
+  summary: An idiomatic, lean, fast & safe pure Rust implementation of Git
+  licenses:
+    - MIT
+    - Apache-2.0
 - repo: msys2_clang64
   srcname: mingw-w64-gitoxide
   binname: mingw-w64-clang-x86_64-gitoxide
@@ -208,15 +220,6 @@
   summary: An idiomatic, lean, fast & safe pure Rust implementation of Git (mingw-w64)
   licenses:
     - spdx:Apache-2.0 OR MIT
-- repo: wakemeops
-  subrepo: dev
-  binname: gitoxide
-  visiblename: gitoxide
-  version: 0.47.0
-  origversion: 0.47.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: msys2_ucrt64
   srcname: mingw-w64-gitoxide
   binname: mingw-w64-ucrt-x86_64-gitoxide
@@ -243,18 +246,6 @@
   srcname: gitoxide
   visiblename: gitoxide
   version: 0.38.0
-  origversion: null
-  status: outdated
-  summary: Command-line application for interacting with git repositories
-  maintainers:
-    - sybrand@neuralcoding.com
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: gitoxide
-  visiblename: gitoxide
-  version: 0.42.0
   origversion: null
   status: outdated
   summary: Command-line application for interacting with git repositories
@@ -331,18 +322,18 @@
   subrepo: main
   binname: gitoxide
   visiblename: gitoxide
-  version: 0.60.0
+  version: 0.61.0
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - Apache-2.0|MIT
 - repo: termux
   srcname: gitoxide
   binname: gitoxide
   visiblename: gitoxide
-  version: 0.60.0
+  version: 0.61.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Rust implementation of Git
   maintainers:
     - termux@github
@@ -363,9 +354,18 @@
   subrepo: dev
   binname: gitoxide
   visiblename: gitoxide
+  version: 0.61.0
+  origversion: 0.61.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: gitoxide
+  visiblename: gitoxide
   version: 0.60.0
   origversion: 0.60.0-1~ops2deb
-  status: outdated
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -401,15 +401,6 @@
   visiblename: gitoxide
   version: 0.55.0
   origversion: 0.55.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: gitoxide
-  visiblename: gitoxide
-  version: 0.54.0
-  origversion: 0.54.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -464,6 +455,24 @@
   visiblename: gitoxide
   version: 0.49.0
   origversion: 0.49.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: gitoxide
+  visiblename: gitoxide
+  version: 0.48.0
+  origversion: 0.48.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: gitoxide
+  visiblename: gitoxide
+  version: 0.47.0
+  origversion: 0.47.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -587,9 +596,9 @@
 - repo: wikidata
   srcname: Q137191887
   visiblename: gitoxide
-  version: 0.60.0
+  version: 0.61.0
   origversion: null
-  status: outdated
+  status: newest
   summary: pure Rust implementation of Git
   licenses:
     - Apache Software License 2.0
