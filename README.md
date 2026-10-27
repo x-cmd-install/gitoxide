@@ -46,26 +46,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,065 · **Forks**: 572 · **Open issues**: 803 · **Contributors**: 213
+- **Stars**: 12,067 · **Forks**: 573 · **Open issues**: 803 · **Contributors**: 213
 
 ## Totals (cumulative)
 
-- **Releases**: 3197 · **Merged PRs**: 1652 · **Open PRs**: 16 · **Closed issues**: 775 · **Open issues**: 28 · **Commits**: 17101
+- **Releases**: 3197 · **Merged PRs**: 1652 · **Open PRs**: 19 · **Closed issues**: 775 · **Open issues**: 28 · **Commits**: 17101
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-31 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-05 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-30 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-01 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-06 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
-Reported by **59** distros on [repology.org](https://repology.org/project/gitoxide). **9** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **59** distros on [repology.org](https://repology.org/project/gitoxide). **14** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -74,7 +74,7 @@ Reported by **59** distros on [repology.org](https://repology.org/project/gitoxi
 | Nix unstable | `0.59.0` | ⚠️ outdated |
 | Void | `0.55.0` | ⚠️ outdated |
 | Alpine edge | `0.14.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.60.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.61.0` | ✅ latest |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:22:14Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:50:13Z._
