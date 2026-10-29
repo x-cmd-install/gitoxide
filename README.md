@@ -14,12 +14,12 @@ x install gitoxide
 
 ## Code insight
 
-Total: **391,813** lines of code across **2004** files in the top 5 languages.
+Total: **392,612** lines of code across **2006** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 369,110 | 3,571 | 30,432 | 1616 |
-| Sh | 18,072 | 1,637 | 2,690 | 286 |
+| Rust | 369,851 | 3,572 | 30,461 | 1616 |
+| Sh | 18,130 | 1,645 | 2,694 | 288 |
 | Toml | 3,859 | 583 | 847 | 99 |
 | Html | 324 | 0 | 3 | 1 |
 | Json | 240 | 0 | 0 | 2 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `gix-testtools-v0.22.0` (2026-10-24)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-28
 
 ## Popularity
 
-- **Stars**: 12,072 · **Forks**: 573 · **Open issues**: 804 · **Contributors**: 214
+- **Stars**: 12,077 · **Forks**: 575 · **Open issues**: 804 · **Contributors**: 214
 
 ## Totals (cumulative)
 
-- **Releases**: 3197 · **Merged PRs**: 1655 · **Open PRs**: 17 · **Closed issues**: 800 · **Open issues**: 4 · **Commits**: 17140
+- **Releases**: 3197 · **Merged PRs**: 1657 · **Open PRs**: 18 · **Closed issues**: 800 · **Open issues**: 4 · **Commits**: 17149
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-29 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-30 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-01 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-02 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-07 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-29 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-30 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-31 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-02 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-03 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-08 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:20:14Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:27:54Z._
