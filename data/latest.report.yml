@@ -1,38 +1,38 @@
 about:
-  description: "An idiomatic, lean, fast & safe pure Rust implementation of Git"
+  description: "A tasteful, lean, fast & safe pure Rust implementation of Git"
   license: Apache-2.0
   homepage: 
-  head: 4b4d8cd
+  head: e0be1ed
   archived: false
   latestVersion: "gix-testtools-v0.22.0"
   latestRelease: "gix-testtools-v0.22.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:29:57Z
+  collectedAt: 2026-10-31T06:20:17Z
 timeline:
   created: 2018-06-07
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 2026-10-24
   lastRelease: 2026-10-24
   lastPrerelease: 
 popularity:
-  star: 12081
+  star: 12091
   watcher: 57
-  fork: 576
+  fork: 578
   release: 3197
   contributor: 215
-  pullRequest: 1914
+  pullRequest: 1915
   issue: 806
 language:
-  Rust: 16280384
-  Shell: 950323
+  Rust: 16349351
+  Shell: 955438
   HTML: 96933
   Just: 20508
   Makefile: 6956
   Dockerfile: 108
-totalBytes: 17355212
+totalBytes: 17429294
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 100
     mergedPR: 0
     openPR: 0
@@ -40,7 +40,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 100
     mergedPR: 0
     openPR: 0
@@ -48,7 +48,7 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 100
     mergedPR: 0
     openPR: 0
@@ -56,7 +56,7 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 100
     mergedPR: 0
     openPR: 0
@@ -64,7 +64,7 @@ recent:
     openIssue: 0
     commit: 0
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 100
     mergedPR: 0
     openPR: 0
@@ -72,7 +72,7 @@ recent:
     openIssue: 0
     commit: 0
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 100
     mergedPR: 0
     openPR: 0
@@ -81,29 +81,29 @@ recent:
     commit: 0
 total:
   release: 3197
-  mergedPR: 1663
-  openPR: 17
+  mergedPR: 1665
+  openPR: 16
   closedIssue: 800
   openIssue: 6
-  commit: 17168
+  commit: 17182
 ---
 path: /home/runner/.x-repo/github.com/Byron/gitoxide
-collectedAt: 2026-10-30T06:30:12Z
+collectedAt: 2026-10-31T06:20:36Z
 loc:
   Rust:
-    code: 370601
-    comments: 3583
-    blanks: 30512
-    files: 1617
+    code: 372008
+    comments: 3590
+    blanks: 30604
+    files: 1620
   Sh:
-    code: 18159
-    comments: 1656
-    blanks: 2698
-    files: 290
+    code: 18252
+    comments: 1681
+    blanks: 2707
+    files: 294
   Toml:
-    code: 3861
+    code: 3942
     comments: 584
-    blanks: 848
+    blanks: 849
     files: 99
   Html:
     code: 324
@@ -141,10 +141,10 @@ loc:
     blanks: 174
     files: 39
 total:
-  code: 393851
-  comments: 132967
-  blanks: 73672
-  files: 2233
+  code: 395432
+  comments: 133112
+  blanks: 73790
+  files: 2240
 ---
 date: "2026-10-26"
 repo:
