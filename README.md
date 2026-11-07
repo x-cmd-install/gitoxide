@@ -14,15 +14,15 @@ x install gitoxide
 
 ## Code insight
 
-Total: **408,527** lines of code across **2056** files in the top 5 languages.
+Total: **414,000** lines of code across **2082** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 384,767 | 3,672 | 31,159 | 1650 |
-| Sh | 18,383 | 1,726 | 2,718 | 304 |
-| Toml | 4,588 | 637 | 948 | 99 |
+| Rust | 389,544 | 3,728 | 31,374 | 1673 |
+| Sh | 18,571 | 1,754 | 2,730 | 307 |
+| Toml | 4,817 | 671 | 965 | 100 |
 | Html | 324 | 0 | 3 | 1 |
-| Json | 240 | 0 | 0 | 2 |
+| C | 279 | 12 | 18 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,103 · **Forks**: 585 · **Open issues**: 806 · **Contributors**: 219
+- **Stars**: 12,108 · **Forks**: 586 · **Open issues**: 808 · **Contributors**: 219
 
 ## Totals (cumulative)
 
-- **Releases**: 3198 · **Merged PRs**: 1686 · **Open PRs**: 17 · **Closed issues**: 803 · **Open issues**: 3 · **Commits**: 17282
+- **Releases**: 3198 · **Merged PRs**: 1689 · **Open PRs**: 19 · **Closed issues**: 805 · **Open issues**: 3 · **Commits**: 17293
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-08 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-10 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-11 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-16 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-08 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-09 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-11 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-12 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-17 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:29:05Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:42:31Z._
