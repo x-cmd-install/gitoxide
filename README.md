@@ -14,12 +14,12 @@ x install gitoxide
 
 ## Code insight
 
-Total: **414,000** lines of code across **2082** files in the top 5 languages.
+Total: **415,818** lines of code across **2093** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 389,544 | 3,728 | 31,374 | 1673 |
-| Sh | 18,571 | 1,754 | 2,730 | 307 |
+| Rust | 391,158 | 3,753 | 31,491 | 1679 |
+| Sh | 18,775 | 1,806 | 2,759 | 312 |
 | Toml | 4,817 | 671 | 965 | 100 |
 | Html | 324 | 0 | 3 | 1 |
 | C | 279 | 12 | 18 | 1 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `gix-macros-v0.2.1` (2026-11-02)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-07
 
 ## Popularity
 
-- **Stars**: 12,108 · **Forks**: 586 · **Open issues**: 808 · **Contributors**: 219
+- **Stars**: 12,110 · **Forks**: 586 · **Open issues**: 808 · **Contributors**: 220
 
 ## Totals (cumulative)
 
-- **Releases**: 3198 · **Merged PRs**: 1689 · **Open PRs**: 19 · **Closed issues**: 805 · **Open issues**: 3 · **Commits**: 17293
+- **Releases**: 3198 · **Merged PRs**: 1691 · **Open PRs**: 19 · **Closed issues**: 805 · **Open issues**: 3 · **Commits**: 17311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-08 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-09 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-11 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-12 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-17 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-09 | 69 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-09 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-10 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-12 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-13 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-18 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:42:31Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:48:12Z._
