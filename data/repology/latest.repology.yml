@@ -1,15 +1,10 @@
-- repo: aosc
-  srcname: app-vcs/gitoxide
-  binname: gitoxide
+- repo: homebrew
+  srcname: gitoxide
   visiblename: gitoxide
-  version: 0.56.0
+  version: HEAD
   origversion: null
-  status: outdated
-  summary: A Git implementation in Rust
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - vcs
+  status: rolling
+  summary: Idiomatic, lean, fast & safe pure Rust implementation of Git
 - repo: alpine_edge
   subrepo: testing
   srcname: gitoxide
@@ -23,6 +18,18 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 OR MIT
+- repo: aosc
+  srcname: app-vcs/gitoxide
+  binname: gitoxide
+  visiblename: gitoxide
+  version: 0.56.0
+  origversion: null
+  status: outdated
+  summary: A Git implementation in Rust
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - vcs
 - repo: arch
   subrepo: extra
   srcname: gitoxide
@@ -120,13 +127,6 @@
   version: 0.61.0
   origversion: null
   status: newest
-  summary: Idiomatic, lean, fast & safe pure Rust implementation of Git
-- repo: homebrew
-  srcname: gitoxide
-  visiblename: gitoxide
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Idiomatic, lean, fast & safe pure Rust implementation of Git
 - repo: macports
   srcname: devel/gitoxide
@@ -257,6 +257,15 @@
   licenses:
     - MIT
     - Apache-2.0
+- repo: wakemeops
+  subrepo: dev
+  binname: gitoxide
+  visiblename: gitoxide
+  version: 0.55.0
+  origversion: 0.55.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: nix_stable_26_05
   srcname: gitoxide
   visiblename: gitoxide
@@ -380,15 +389,6 @@
   visiblename: gitoxide
   version: 0.56.0
   origversion: 0.56.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: gitoxide
-  visiblename: gitoxide
-  version: 0.55.0
-  origversion: 0.55.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
