@@ -14,23 +14,23 @@ x install gitoxide
 
 ## 代码洞察
 
-合计: **425,945** 行代码（覆盖前 5 种语言、共 **2123** 个文件）。
+合计: **427,286** 行代码（覆盖前 5 种语言、共 **2127** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 400,178 | 3,806 | 31,845 | 1692 |
-| Sh | 19,882 | 2,078 | 2,898 | 329 |
-| Toml | 4,817 | 671 | 965 | 100 |
+| Rust | 401,114 | 3,806 | 31,891 | 1695 |
+| Sh | 20,287 | 2,108 | 2,921 | 330 |
+| Toml | 4,817 | 669 | 965 | 100 |
 | Html | 324 | 0 | 3 | 1 |
 | C | 279 | 12 | 18 | 1 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.6 / 10**
+总评分: **7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 1/6 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,27 +42,27 @@ x install gitoxide
 ## 发布
 
 - **最新版本**: `v0.61.0` (2026-10-22)
-- **最近提交**: 2026-11-14
+- **最近提交**: 2026-11-16
 - **Release 含资产**: 40 个
 
 ## 流行度
 
-- **Star**: 12,136 · **Fork**: 596 · **开放 issue**: 816 · **贡献者**: 223
+- **Star**: 12,137 · **Fork**: 597 · **开放 issue**: 817 · **贡献者**: 224
 
 ## 累计统计
 
-- **发布数**: 91 · **已合并 PR**: 1707 · **开放 PR**: 15 · **已关闭 issue**: 812 · **开放 issue**: 4 · **提交数**: 17384
+- **发布数**: 91 · **已合并 PR**: 1711 · **开放 PR**: 16 · **已关闭 issue**: 813 · **开放 issue**: 4 · **提交数**: 17401
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-17 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-19 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-20 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-25 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-17 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-18 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-20 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-21 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-26 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -111,13 +111,13 @@ x install gitoxide
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/gitoxide) 上共有 **59** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/gitoxide) 上共有 **59** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `0.56.0` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.59.0` | ⚠️ outdated |
+| Homebrew | `0.61.0` | ✅ latest |
+| Nix unstable | `0.61.0` | ✅ latest |
 | Void | `0.55.0` | ⚠️ outdated |
 | Alpine edge | `0.14.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.61.0` | ✅ latest |
@@ -131,4 +131,4 @@ gitoxide 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T07:23:01Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T07:48:09Z._

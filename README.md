@@ -14,23 +14,23 @@ x install gitoxide
 
 ## Code insight
 
-Total: **425,945** lines of code across **2123** files in the top 5 languages.
+Total: **427,286** lines of code across **2127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 400,178 | 3,806 | 31,845 | 1692 |
-| Sh | 19,882 | 2,078 | 2,898 | 329 |
-| Toml | 4,817 | 671 | 965 | 100 |
+| Rust | 401,114 | 3,806 | 31,891 | 1695 |
+| Sh | 20,287 | 2,108 | 2,921 | 330 |
+| Toml | 4,817 | 669 | 965 | 100 |
 | Html | 324 | 0 | 3 | 1 |
 | C | 279 | 12 | 18 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **7.6 / 10**
+Overall score: **7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 1/6 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.61.0` (2026-10-22)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-16
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 12,136 · **Forks**: 596 · **Open issues**: 816 · **Contributors**: 223
+- **Stars**: 12,137 · **Forks**: 597 · **Open issues**: 817 · **Contributors**: 224
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 1707 · **Open PRs**: 15 · **Closed issues**: 812 · **Open issues**: 4 · **Commits**: 17384
+- **Releases**: 91 · **Merged PRs**: 1711 · **Open PRs**: 16 · **Closed issues**: 813 · **Open issues**: 4 · **Commits**: 17401
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-17 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-19 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-20 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-25 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-17 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-18 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-20 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-21 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-26 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -111,13 +111,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **59** distros on [repology.org](https://repology.org/project/gitoxide). **14** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **59** distros on [repology.org](https://repology.org/project/gitoxide). **15** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.56.0` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.59.0` | ⚠️ outdated |
+| Homebrew | `0.61.0` | ✅ latest |
+| Nix unstable | `0.61.0` | ✅ latest |
 | Void | `0.55.0` | ⚠️ outdated |
 | Alpine edge | `0.14.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.61.0` | ✅ latest |
@@ -131,4 +131,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:23:00Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:48:09Z._
