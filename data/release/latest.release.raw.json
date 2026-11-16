@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 12779073,
       "digest": "sha256:f5f5e84f3173601316ce6098377db576203a49669ae0f04879829e793a4d579b",
-      "download_count": 39,
+      "download_count": 42,
       "created_at": "2026-10-23T07:16:48Z",
       "updated_at": "2026-10-23T07:16:49Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-aarch64-unknown-linux-musl.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 13668879,
       "digest": "sha256:4128aedce7e12e6f4867388862b02b5b0853d8ec4f35daa2edbbc1ba50d57809",
-      "download_count": 46,
+      "download_count": 47,
       "created_at": "2026-10-23T07:23:33Z",
       "updated_at": "2026-10-23T07:23:34Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-x86_64-pc-windows-msvc.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 13705324,
       "digest": "sha256:b43b9d4cb4ba55d90e5eff3380dd0ec93347e8eaec2853cbc31177014c17dfb7",
-      "download_count": 99,
+      "download_count": 101,
       "created_at": "2026-10-23T07:09:49Z",
       "updated_at": "2026-10-23T07:09:49Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 13844833,
       "digest": "sha256:ffbaf6cfc6a7e3bf0534f72841741a81f2ae995145d6ab8df709c590b53d678d",
-      "download_count": 266,
+      "download_count": 280,
       "created_at": "2026-10-23T07:11:35Z",
       "updated_at": "2026-10-23T07:11:36Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.61.0/gitoxide-max-pure-v0.61.0-x86_64-unknown-linux-musl.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 14521040,
       "digest": "sha256:b1fcc4209c590eb390b5190eb3555312d584ec6d6e5145dc3454f77de10b04ef",
-      "download_count": 191,
+      "download_count": 195,
       "created_at": "2026-10-23T07:20:43Z",
       "updated_at": "2026-10-23T07:20:44Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.61.0/gitoxide-max-v0.61.0-x86_64-pc-windows-msvc.zip"
