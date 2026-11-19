@@ -14,13 +14,13 @@ x install gitoxide
 
 ## Code insight
 
-Total: **452,207** lines of code across **2211** files in the top 5 languages.
+Total: **461,509** lines of code across **2244** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 425,725 | 4,184 | 33,134 | 1773 |
-| Sh | 20,426 | 2,143 | 2,930 | 333 |
-| Toml | 4,988 | 683 | 999 | 103 |
+| Rust | 434,086 | 4,067 | 33,362 | 1789 |
+| Sh | 21,362 | 2,266 | 2,971 | 350 |
+| Toml | 4,993 | 683 | 999 | 103 |
 | Html | 324 | 0 | 3 | 1 |
 | C | 279 | 12 | 18 | 1 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.61.0` (2026-10-22)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-19
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 12,141 · **Forks**: 596 · **Open issues**: 818 · **Contributors**: 224
+- **Stars**: 12,154 · **Forks**: 596 · **Open issues**: 818 · **Contributors**: 224
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 1713 · **Open PRs**: 16 · **Closed issues**: 814 · **Open issues**: 4 · **Commits**: 17416
+- **Releases**: 91 · **Merged PRs**: 1716 · **Open PRs**: 14 · **Closed issues**: 814 · **Open issues**: 4 · **Commits**: 17445
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-22 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-27 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-20 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-24 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-29 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -111,7 +111,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **59** distros on [repology.org](https://repology.org/project/gitoxide). **15** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **59** distros on [repology.org](https://repology.org/project/gitoxide). **16** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -131,4 +131,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:33:22Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:22:12Z._
