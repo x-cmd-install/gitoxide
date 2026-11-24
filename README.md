@@ -14,12 +14,12 @@ x install gitoxide
 
 ## Code insight
 
-Total: **463,635** lines of code across **2251** files in the top 5 languages.
+Total: **463,949** lines of code across **2253** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 436,131 | 4,081 | 33,526 | 1791 |
-| Sh | 21,440 | 2,285 | 2,983 | 355 |
+| Rust | 436,434 | 4,065 | 33,540 | 1791 |
+| Sh | 21,451 | 2,290 | 2,985 | 357 |
 | Toml | 4,996 | 687 | 1,002 | 103 |
 | Html | 324 | 0 | 3 | 1 |
 | C | 279 | 12 | 18 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.62.0` (2026-11-22)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 12,161 · **Forks**: 599 · **Open issues**: 821 · **Contributors**: 225
+- **Stars**: 12,170 · **Forks**: 600 · **Open issues**: 821 · **Contributors**: 227
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 1724 · **Open PRs**: 13 · **Closed issues**: 817 · **Open issues**: 4 · **Commits**: 17488
+- **Releases**: 93 · **Merged PRs**: 1729 · **Open PRs**: 15 · **Closed issues**: 817 · **Open issues**: 4 · **Commits**: 17502
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-25 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-04 | 25 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -111,7 +111,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **59** distros on [repology.org](https://repology.org/project/gitoxide). **2** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
+Reported by **59** distros on [repology.org](https://repology.org/project/gitoxide). **5** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -131,4 +131,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:33:58Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:33:55Z._
