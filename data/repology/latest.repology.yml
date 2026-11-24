@@ -1,3 +1,12 @@
+- repo: wakemeops
+  subrepo: dev
+  binname: gitoxide
+  visiblename: gitoxide
+  version: 0.39.0
+  origversion: 0.39.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alpine_edge
   subrepo: testing
   srcname: gitoxide
@@ -82,18 +91,6 @@
   summary: Rust implementation of Git (documentation)
   licenses:
     - Apache-2.0 OR MIT
-- repo: nix_stable_25_05
-  srcname: gitoxide
-  visiblename: gitoxide
-  version: 0.42.0
-  origversion: null
-  status: outdated
-  summary: Command-line application for interacting with git repositories
-  maintainers:
-    - sybrand@neuralcoding.com
-  licenses:
-    - MIT
-    - Apache-2.0
 - repo: exherbo
   subrepo: rust
   srcname: dev-scm/gitoxide
@@ -110,9 +107,9 @@
   srcname: devel/gitoxide
   binname: gitoxide
   visiblename: devel/gitoxide
-  version: 0.61.0
+  version: 0.62.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Idiomatic, lean, fast & safe pure Rust implementation of Git
   maintainers:
     - yuri@freebsd.org
@@ -245,6 +242,18 @@
   licenses:
     - MIT
     - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: gitoxide
+  visiblename: gitoxide
+  version: 0.42.0
+  origversion: null
+  status: outdated
+  summary: Command-line application for interacting with git repositories
+  maintainers:
+    - sybrand@neuralcoding.com
+  licenses:
+    - MIT
+    - Apache-2.0
 - repo: nix_stable_25_11
   srcname: gitoxide
   visiblename: gitoxide
@@ -257,6 +266,15 @@
   licenses:
     - MIT
     - Apache-2.0
+- repo: wakemeops
+  subrepo: dev
+  binname: gitoxide
+  visiblename: gitoxide
+  version: 0.40.0
+  origversion: 0.40.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: nix_stable_26_05
   srcname: gitoxide
   visiblename: gitoxide
@@ -319,9 +337,9 @@
   srcname: gitoxide
   binname: gitoxide
   visiblename: gitoxide
-  version: 0.61.0
+  version: 0.62.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Rust implementation of Git
   maintainers:
     - termux@github
@@ -522,24 +540,6 @@
   subrepo: dev
   binname: gitoxide
   visiblename: gitoxide
-  version: 0.40.0
-  origversion: 0.40.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: gitoxide
-  visiblename: gitoxide
-  version: 0.39.0
-  origversion: 0.39.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: gitoxide
-  visiblename: gitoxide
   version: 0.38.0
   origversion: 0.38.0-1~ops2deb
   status: legacy
@@ -593,9 +593,9 @@
 - repo: wikidata
   srcname: Q137191887
   visiblename: gitoxide
-  version: 0.61.0
+  version: 0.62.0
   origversion: null
-  status: outdated
+  status: newest
   summary: pure Rust implementation of Git
   licenses:
     - Apache License 2.0
