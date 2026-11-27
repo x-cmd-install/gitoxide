@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 13178982,
       "digest": "sha256:7531f43eacf6f37ce42d6a5b6ced58e486a9a018e6899d3c1cd27e27a34def77",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-23T03:38:24Z",
       "updated_at": "2026-11-23T03:38:25Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-lean-v0.62.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14244839,
       "digest": "sha256:ad2fac204c4162087935a1930e92a21b7dc8c8276719ef8d1c237cc1b96bfad0",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-23T03:37:54Z",
       "updated_at": "2026-11-23T03:37:54Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-lean-v0.62.0-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14000950,
       "digest": "sha256:00063e8d65e4fb52dedb8b332732a51e9eb572dfc2c3d92c4610d7e19603bde0",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-23T03:35:35Z",
       "updated_at": "2026-11-23T03:35:36Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-lean-v0.62.0-i686-pc-windows-msvc.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 27240204,
       "digest": "sha256:b2904b02ec7dbaf59221b4fbd237a55ef89fce5eff6579de1510ff3aa6d34d4a",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-23T03:55:49Z",
       "updated_at": "2026-11-23T03:55:50Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-lean-v0.62.0-universal-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14173991,
       "digest": "sha256:23b7bb0e6362146e3135b5e94d063eaa12e0e7ed92635ac0853dca652bbae872",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-23T03:54:25Z",
       "updated_at": "2026-11-23T03:54:29Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-lean-v0.62.0-x86_64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15058917,
       "digest": "sha256:9523395d12ee7a105514a3531f2a571807699fd12e24d3be219ad1ebad9b57ab",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-23T03:40:42Z",
       "updated_at": "2026-11-23T03:40:43Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-lean-v0.62.0-x86_64-pc-windows-gnu.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 15289079,
       "digest": "sha256:0101250e038fb185050437b0eee1ff4e04189ae49608ec12173ed02e2219f488",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-23T03:40:51Z",
       "updated_at": "2026-11-23T03:40:52Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-lean-v0.62.0-x86_64-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 13250840,
       "digest": "sha256:e7519ad97ce2a72139c483069e0ee1ab23db342f7bde34f756698a02b0081067",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-11-23T03:43:09Z",
       "updated_at": "2026-11-23T03:43:10Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-aarch64-apple-darwin.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 14040705,
       "digest": "sha256:99979fa28cd6824d9ad914b212f73948853ff95e4e734662ee83809e5df1febb",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-23T03:44:15Z",
       "updated_at": "2026-11-23T03:44:16Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-aarch64-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13619219,
       "digest": "sha256:c7c0c5d42e3e6b8089adf392e8308c148514223083642e8467b327954ef4c0e9",
-      "download_count": 8,
+      "download_count": 12,
       "created_at": "2026-11-23T03:30:24Z",
       "updated_at": "2026-11-23T03:30:25Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 13690955,
       "digest": "sha256:873ad5683073f9dfa3f4ae5bcfc5d7860f4d643266a8bdc28915a7e6355b2abe",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-23T03:31:30Z",
       "updated_at": "2026-11-23T03:31:31Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-aarch64-unknown-linux-musl.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 13959930,
       "digest": "sha256:9b9d34bc0a01d4d7373af1f7d66ea506b0dfb11fe82fd431a55f2748db1b6187",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-23T03:31:11Z",
       "updated_at": "2026-11-23T03:31:12Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-arm-unknown-linux-gnueabihf.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 14012797,
       "digest": "sha256:d55d345ef0b0e7a4d9f5e46d8e75176184c9b144e4a8d5e518bf9d087c8aac32",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-23T03:31:23Z",
       "updated_at": "2026-11-23T03:31:24Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-arm-unknown-linux-musleabihf.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 13555207,
       "digest": "sha256:848f1952db674babd8bb4a58532ecfe795876b490e2427a363bd297f42108f0f",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-23T03:43:28Z",
       "updated_at": "2026-11-23T03:43:30Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-i686-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 14896147,
       "digest": "sha256:d7492ac75e766ef8652bdf724f0a4140858ce3eb76ffbe6bde5c585ec4659fee",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-23T03:30:11Z",
       "updated_at": "2026-11-23T03:30:12Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-i686-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 14470876,
       "digest": "sha256:3d27bd44aba2759a5b32810f0aab89a23a2a15ae7b958fc5c8fb740bd462f5a8",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-23T03:30:19Z",
       "updated_at": "2026-11-23T03:30:20Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-i686-unknown-linux-musl.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 15384415,
       "digest": "sha256:f00153a941c6f5192417c7b5f0df0ddb069a6dd598b1998397b7041bbf5c1438",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-23T03:29:32Z",
       "updated_at": "2026-11-23T03:29:33Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-powerpc64le-unknown-linux-gnu.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 14392811,
       "digest": "sha256:86e15f04666e81bfb78fe4c7dcc666bd711c052be6309657569fcd68edb01609",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-23T03:31:02Z",
       "updated_at": "2026-11-23T03:31:03Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-riscv64gc-unknown-linux-gnu.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 16263903,
       "digest": "sha256:85f90be2d08756b853910d9e4758f337256d16ec7df37669a751a3590137edc8",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-23T03:37:13Z",
       "updated_at": "2026-11-23T03:37:14Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-s390x-unknown-linux-gnu.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 27435388,
       "digest": "sha256:684ed16949468112670bcb54398c45d8775d64b87f52aedb3b966ed2c7de908f",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-23T03:55:52Z",
       "updated_at": "2026-11-23T03:55:53Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-universal-apple-darwin.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 14300306,
       "digest": "sha256:c58a1b133151bac9e111746cfd87a2de4da295b20640bbe55d657dfc30caa7a1",
-      "download_count": 5,
+      "download_count": 10,
       "created_at": "2026-11-23T03:38:52Z",
       "updated_at": "2026-11-23T03:38:54Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-x86_64-apple-darwin.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 14323208,
       "digest": "sha256:7c122c7a8f0309a05be505b9de6525e3cda689b07fc930bc3a3f0dbabdb1b3ac",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-23T03:33:23Z",
       "updated_at": "2026-11-23T03:33:24Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-x86_64-pc-windows-gnu.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 14795338,
       "digest": "sha256:f7f4918b24b39b3d430ac0067b00a0575576a0cdc46b8c9440a26b0435a1b676",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-23T03:36:42Z",
       "updated_at": "2026-11-23T03:36:43Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-x86_64-pc-windows-msvc.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 14718928,
       "digest": "sha256:5797dc1797857c8cc03cc05ed88b2674cf67cbb7d4513c782a60934155faeb5e",
-      "download_count": 46,
+      "download_count": 53,
       "created_at": "2026-11-23T03:31:29Z",
       "updated_at": "2026-11-23T03:31:29Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 14865845,
       "digest": "sha256:bdd6fa1cb52cee3485d5febd9410da5685e2efce30e7053beb106eda0c7e271e",
-      "download_count": 35,
+      "download_count": 45,
       "created_at": "2026-11-23T03:30:35Z",
       "updated_at": "2026-11-23T03:30:35Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-pure-v0.62.0-x86_64-unknown-linux-musl.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 13531194,
       "digest": "sha256:9d3bda24978840d9ee29777c462df9fb6461a6fd835b87c2048d28a4031b883e",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-23T03:47:57Z",
       "updated_at": "2026-11-23T03:47:58Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-v0.62.0-aarch64-apple-darwin.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 14615652,
       "digest": "sha256:d758596b2f9aa14d663949b78d50b53cdfbe29d05ce97dd63419b5086d0ba432",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-11-23T03:40:14Z",
       "updated_at": "2026-11-23T03:40:15Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-v0.62.0-aarch64-pc-windows-msvc.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 14362755,
       "digest": "sha256:9380bdf991bf57109ab54bcc42df9b8a914610932d5702323646f0ce8a6d1e79",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-11-23T03:35:11Z",
       "updated_at": "2026-11-23T03:35:12Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-v0.62.0-i686-pc-windows-msvc.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 27974623,
       "digest": "sha256:40378c5a7e3b08df14bdbead80fce7527dff902c981e064a8fa3f37838850fb9",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-23T03:55:51Z",
       "updated_at": "2026-11-23T03:55:53Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-v0.62.0-universal-apple-darwin.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 14556437,
       "digest": "sha256:5c3576aa72fc1c4bc7a06035db1d5aac79a704fee66c0d8adb924b70993dea98",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-23T03:42:04Z",
       "updated_at": "2026-11-23T03:42:06Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-v0.62.0-x86_64-apple-darwin.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 15422357,
       "digest": "sha256:deee699af653526fa6cedbf4fc984fee74b94a8db7459d8fbd55e18de6b556c4",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-23T03:33:50Z",
       "updated_at": "2026-11-23T03:33:50Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-v0.62.0-x86_64-pc-windows-gnu.zip"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 15685967,
       "digest": "sha256:8e808d647f69346d91cc9c6c405febd5b34723f71ccdcfa2020d8192d48836f7",
-      "download_count": 63,
+      "download_count": 73,
       "created_at": "2026-11-23T03:35:32Z",
       "updated_at": "2026-11-23T03:35:34Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-max-v0.62.0-x86_64-pc-windows-msvc.zip"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 5292342,
       "digest": "sha256:3576fb154662e46f261ecae11ecc60c64502aaa6e50efbe7c4ac02257249affa",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-23T03:45:56Z",
       "updated_at": "2026-11-23T03:45:57Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-small-v0.62.0-aarch64-apple-darwin.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 5631550,
       "digest": "sha256:97a985ec00bdc50cd7bbb52e72c12c36663f6742af411e51c4f541610434bb49",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-23T03:40:16Z",
       "updated_at": "2026-11-23T03:40:17Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-small-v0.62.0-aarch64-pc-windows-msvc.zip"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 5565029,
       "digest": "sha256:2c45134ebdd8834b40c18cde68d82ebe87d37f9666a3acbadb24213c343c48e5",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-23T03:35:40Z",
       "updated_at": "2026-11-23T03:35:41Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-small-v0.62.0-i686-pc-windows-msvc.zip"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 10897477,
       "digest": "sha256:51bc63b115b7891c5f899f8e42cdee8cdc85c901aa3d4b344feab8a4d8c0141a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-23T03:55:48Z",
       "updated_at": "2026-11-23T03:55:49Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-small-v0.62.0-universal-apple-darwin.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 5717503,
       "digest": "sha256:8df2914f217214eb10f1cd127d4ad94f5362f71900c3463da9f22cccdfe567b0",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-23T03:38:43Z",
       "updated_at": "2026-11-23T03:38:50Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-small-v0.62.0-x86_64-apple-darwin.tar.gz"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 5788195,
       "digest": "sha256:4ec1bf169a2c070edf694a80653898228ba40be478312e90c463233c27f38588",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-23T03:34:22Z",
       "updated_at": "2026-11-23T03:34:23Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-small-v0.62.0-x86_64-pc-windows-gnu.zip"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 6015177,
       "digest": "sha256:74776f6b15ed3db2da4a5c85417037cec3cf4c6415bbda2263b8979b7f389410",
-      "download_count": 12,
+      "download_count": 17,
       "created_at": "2026-11-23T03:37:18Z",
       "updated_at": "2026-11-23T03:37:18Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/gitoxide-small-v0.62.0-x86_64-pc-windows-msvc.zip"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 4635,
       "digest": "sha256:5f22fdf56487e59341bea5084251903331b2ebb7f60ed6fa923844dd839417f7",
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2026-11-23T03:56:05Z",
       "updated_at": "2026-11-23T03:56:05Z",
       "browser_download_url": "https://github.com/GitoxideLabs/gitoxide/releases/download/v0.62.0/hashes.sha256"
