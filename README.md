@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,175 · **Forks**: 606 · **Open issues**: 825 · **Contributors**: 228
+- **Stars**: 12,176 · **Forks**: 605 · **Open issues**: 825 · **Contributors**: 228
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-06 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-28 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-02 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-07 | 25 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -109,6 +109,19 @@ Lowest-scoring checks:
 | [gitoxide-small-v0.62.0-x86_64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.62.0/gitoxide-small-v0.62.0-x86_64-pc-windows-msvc.zip) | 5.7 MiB | `native/win/x64` |
 | [hashes.sha256](https://github.com/Byron/gitoxide/releases/download/v0.62.0/hashes.sha256) | 4.5 KiB | `other` |
 
+## Distribution status
+
+Reported by **59** distros on [repology.org](https://repology.org/project/gitoxide). **8** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.56.0` | ⚠️ outdated |
+| Homebrew | `0.62.0` | ✅ latest |
+| Nix unstable | `0.61.0` | ⚠️ outdated |
+| Void | `0.55.0` | ⚠️ outdated |
+| Alpine edge | `0.14.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.61.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gitoxide` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -118,4 +131,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:51:01Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:05:22Z._
