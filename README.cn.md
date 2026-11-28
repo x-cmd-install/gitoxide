@@ -14,13 +14,13 @@ x install gitoxide
 
 ## 代码洞察
 
-合计: **465,391** 行代码（覆盖前 5 种语言、共 **2259** 个文件）。
+合计: **467,350** 行代码（覆盖前 5 种语言、共 **2268** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 437,750 | 4,078 | 33,614 | 1795 |
-| Sh | 21,571 | 2,318 | 3,001 | 359 |
-| Toml | 5,002 | 687 | 1,003 | 103 |
+| Rust | 439,555 | 4,085 | 33,773 | 1802 |
+| Sh | 21,728 | 2,335 | 3,021 | 361 |
+| Toml | 4,999 | 687 | 1,003 | 103 |
 | Html | 324 | 0 | 3 | 1 |
 | C | 279 | 12 | 18 | 1 |
 
@@ -42,27 +42,27 @@ x install gitoxide
 ## 发布
 
 - **最新版本**: `v0.62.0` (2026-11-22)
-- **最近提交**: 2026-11-25
+- **最近提交**: 2026-11-28
 - **Release 含资产**: 40 个
 
 ## 流行度
 
-- **Star**: 12,176 · **Fork**: 605 · **开放 issue**: 825 · **贡献者**: 228
+- **Star**: 12,178 · **Fork**: 607 · **开放 issue**: 825 · **贡献者**: 228
 
 ## 累计统计
 
-- **发布数**: 93 · **已合并 PR**: 1732 · **开放 PR**: 21 · **已关闭 issue**: 818 · **开放 issue**: 7 · **提交数**: 17514
+- **发布数**: 93 · **已合并 PR**: 1734 · **开放 PR**: 21 · **已关闭 issue**: 819 · **开放 issue**: 6 · **提交数**: 17540
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-28 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-29 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-31 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-02 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-07 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-29 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-29 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-30 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-06-01 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-03 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-08 | 25 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -109,19 +109,6 @@ x install gitoxide
 | [gitoxide-small-v0.62.0-x86_64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.62.0/gitoxide-small-v0.62.0-x86_64-pc-windows-msvc.zip) | 5.7 MiB | `native/win/x64` |
 | [hashes.sha256](https://github.com/Byron/gitoxide/releases/download/v0.62.0/hashes.sha256) | 4.5 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/gitoxide) 上共有 **59** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**22** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.56.0` | ⚠️ outdated |
-| Homebrew | `0.62.0` | ✅ latest |
-| Nix unstable | `0.61.0` | ⚠️ outdated |
-| Void | `0.55.0` | ⚠️ outdated |
-| Alpine edge | `0.14.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.61.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 gitoxide 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gitoxide` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -131,4 +118,4 @@ gitoxide 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:05:22Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:55:15Z._

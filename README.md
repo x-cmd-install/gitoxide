@@ -14,13 +14,13 @@ x install gitoxide
 
 ## Code insight
 
-Total: **465,391** lines of code across **2259** files in the top 5 languages.
+Total: **467,350** lines of code across **2268** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 437,750 | 4,078 | 33,614 | 1795 |
-| Sh | 21,571 | 2,318 | 3,001 | 359 |
-| Toml | 5,002 | 687 | 1,003 | 103 |
+| Rust | 439,555 | 4,085 | 33,773 | 1802 |
+| Sh | 21,728 | 2,335 | 3,021 | 361 |
+| Toml | 4,999 | 687 | 1,003 | 103 |
 | Html | 324 | 0 | 3 | 1 |
 | C | 279 | 12 | 18 | 1 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.62.0` (2026-11-22)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-28
 - **Assets in release**: 40
 
 ## Popularity
 
-- **Stars**: 12,176 · **Forks**: 605 · **Open issues**: 825 · **Contributors**: 228
+- **Stars**: 12,178 · **Forks**: 607 · **Open issues**: 825 · **Contributors**: 228
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 1732 · **Open PRs**: 21 · **Closed issues**: 818 · **Open issues**: 7 · **Commits**: 17514
+- **Releases**: 93 · **Merged PRs**: 1734 · **Open PRs**: 21 · **Closed issues**: 819 · **Open issues**: 6 · **Commits**: 17540
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-28 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-29 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-31 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-02 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-07 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-29 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-29 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-30 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-06-01 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-03 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-08 | 25 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -109,19 +109,6 @@ Lowest-scoring checks:
 | [gitoxide-small-v0.62.0-x86_64-pc-windows-msvc.zip](https://github.com/Byron/gitoxide/releases/download/v0.62.0/gitoxide-small-v0.62.0-x86_64-pc-windows-msvc.zip) | 5.7 MiB | `native/win/x64` |
 | [hashes.sha256](https://github.com/Byron/gitoxide/releases/download/v0.62.0/hashes.sha256) | 4.5 KiB | `other` |
 
-## Distribution status
-
-Reported by **59** distros on [repology.org](https://repology.org/project/gitoxide). **8** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.56.0` | ⚠️ outdated |
-| Homebrew | `0.62.0` | ✅ latest |
-| Nix unstable | `0.61.0` | ⚠️ outdated |
-| Void | `0.55.0` | ⚠️ outdated |
-| Alpine edge | `0.14.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.61.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gitoxide` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -131,4 +118,4 @@ Install metadata for gitoxide lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:05:22Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:55:14Z._
